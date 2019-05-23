@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoTest</string>
+    <string name="agora_app_id"><your app id></string>
+</resources>
